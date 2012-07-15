@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm /Applications/dpatcher.app/dpatcher
+cp obj/dpatcher /Applications/dpatcher.app/dpatcher
