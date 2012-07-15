@@ -1,7 +1,8 @@
 Dpatcher-IOS
 ============
 
-A file patcher for Destinia written for IOS, basically a cheatInstalling the iphone SDK is as easy as going to cydia finding bigboss recommended installing then using terminal installtheos3.
+A file patcher for Destinia written for IOS, basically a cheat 
+Installing the iphone SDK is as easy as going to cydia finding bigboss recommended installing then using terminal installtheos3.
 
 afterwards you can compile this :D
 
